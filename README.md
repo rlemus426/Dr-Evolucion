@@ -1,2 +1,3 @@
 # Dr-Evolucion
 Crear un JUEGO EDUCATIVO DE MODELADO EVOLUTIVO Ecosistémico.
+ESTE PROYECTO ES ALTERNATIVO A HELLO-DR-EVOLUCION creado por el mismo autor.
